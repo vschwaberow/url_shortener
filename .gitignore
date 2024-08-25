@@ -1,0 +1,4 @@
+build/
+.vscode/
+.vscodesettings.json
+*.sqlite
